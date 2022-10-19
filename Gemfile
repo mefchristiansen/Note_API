@@ -21,7 +21,7 @@ gem 'puma', '~> 3.0'
 gem 'rack-cors'
 
 gem 'loofah', '~> 2.2.1'
-gem 'nokogiri', '~> 1.8.1'
+gem 'nokogiri', '~> 1.13.9'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
